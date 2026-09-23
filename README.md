@@ -1,3 +1,4 @@
 ## Topics Covered
 
 . LISTS
+. Dictionary
